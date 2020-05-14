@@ -9,4 +9,5 @@
             android:gravity="center"
             android:src="@mipmap/ic_launcher" />
     </item>
+    <!-- 주석 처리된 값을 지우고 이미지 표시 -->
 </layer-list>
